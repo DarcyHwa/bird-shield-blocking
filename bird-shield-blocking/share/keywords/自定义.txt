@@ -4,3 +4,11 @@ btc
 链上
 区块链
 空投
+@*=维尼
+中共
+lang!=zh|en
+lang*=zh-tw
+lang~zh-tw
+lang=zh-tw
+lang^=zh-tw
+lang=~zh-tw
