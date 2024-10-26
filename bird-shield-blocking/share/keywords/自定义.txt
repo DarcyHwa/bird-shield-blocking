@@ -12,3 +12,5 @@ lang~zh-tw
 lang=zh-tw
 lang^=zh-tw
 lang=~zh-tw
+足控
+街拍
