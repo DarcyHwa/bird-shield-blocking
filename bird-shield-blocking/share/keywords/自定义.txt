@@ -22,3 +22,5 @@ lang=~zh-tw
 反差
 国蝻
 lang≠zh | lang≠en
+lang=ja
+lang~ja
