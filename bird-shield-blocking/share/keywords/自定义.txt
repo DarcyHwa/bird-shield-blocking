@@ -30,3 +30,5 @@ Crypto
 web3
 Blockchain
 跨链
+@*=fo
+@*=Fo
