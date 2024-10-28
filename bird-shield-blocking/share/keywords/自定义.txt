@@ -24,3 +24,5 @@ lang=~zh-tw
 lang≠zh | lang≠en
 lang=ja
 lang~ja
+name ~= /[\p{Hiragana}\p{Katakana}\p{Han}]/
+@*=制定
