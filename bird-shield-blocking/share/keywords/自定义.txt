@@ -6,7 +6,6 @@ btc
 空投
 @*=维尼
 中共
-lang!=zh|en
 lang*=zh-tw
 lang~zh-tw
 lang=zh-tw
@@ -22,3 +21,4 @@ lang=~zh-tw
 @*=反差
 反差
 国蝻
+lang≠zh | lang≠en
