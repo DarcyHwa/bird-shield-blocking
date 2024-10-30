@@ -32,3 +32,4 @@ Blockchain
 跨链
 @*=fo
 @*=Fo
+SHIBUYAMELTDOWN
